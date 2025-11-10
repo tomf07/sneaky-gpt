@@ -23,7 +23,7 @@ const OPENAI = "YOUR_API_KEY_HERE";
 ```
 ⚠️ Do not share your OpenAI API Key with anyone, as it could lead to unwanted billing ⚠️
 
-4. Save it and give it a shortcut (e.g. ```Cmd + Shift + A``` or ```Ctrl + Shift + A```
+5. Save it and give it a shortcut (e.g. ```Cmd + Shift + A``` or ```Ctrl + Shift + A```
 
 
 ## 🧠 Example
