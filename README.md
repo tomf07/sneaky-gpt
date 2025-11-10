@@ -15,8 +15,9 @@ A tiny Raycast script that lets you instantly use GPT-4o-mini on whatever you co
 ## 🧩 Setup
 
 1. Make sure you have **Node.js** installed.
-2. Create a new Raycast **Script Command** (search for extensions, go to script command and add the directory that contains the sneaky_gpt.sh file
-3. Add your own OpenAI key:
+2. Download **Raycast** from raycast.com
+3. Create a new Raycast **Script Command** (search for extensions, go to script command and add the directory that contains the sneaky_gpt.sh file
+4. Add your own OpenAI key in:
 ```
 const OPENAI = "YOUR_API_KEY_HERE";
 ```
